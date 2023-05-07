@@ -1,0 +1,16 @@
+body {
+  background: red;
+}
+
+.box-area {
+  background: #6b4645;
+  color: #fff;
+  padding: 20px;
+}
+
+.box-area .heading {
+  color: #29d6e6;
+  font-size: 50px;
+  font-weight: 700;
+  border-bottom: 2px solid #a4a4a4;
+}
