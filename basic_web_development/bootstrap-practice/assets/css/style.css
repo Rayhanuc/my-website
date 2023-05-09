@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display:wght@400;500;600;700;800;900&display=swap');
+
+body {
+  background: #f4f4f4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+}
+
+.display-4 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+
+.blog-header-logo {
+  font-size: 2.25rem;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+  color: black;
+  font-weight: 600;
+}
+
+.blog-header {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.blog-footer {
+  text-align: center;
+  color: #929292;
+  border-top: 1px solid #9d9d9d;
+  margin-top: 30px;
+  padding: 32px 0;
+  background: #dedede;
+  line-height: 32px;
+}
+
+.blog-footer p {
+  margin: 0;
+}
