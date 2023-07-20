@@ -28,7 +28,22 @@ h6 {
 
 .page-heading {
   text-align: center;
-  margin-bottom: 50px;
+  margin: 50px 0;
+}
+
+.page-heading h4 {
+  color: #e80000;
+  border-bottom: 1px solid;
+  width: 60%;
+  margin: 0 auto;
+  padding-bottom: 10px;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+.page-heading h2 {
+  margin-top: -9px;
+  text-transform: uppercase;
 }
 
 .team-members {
